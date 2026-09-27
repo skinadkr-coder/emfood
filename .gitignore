@@ -1,0 +1,52 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Node modules (필요시)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build files (필요시)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Image originals (최적화 전 원본)
+images/originals/
+images/*.psd
+images/*.ai
+
+# Documentation drafts
+docs/drafts/
