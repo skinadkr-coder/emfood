@@ -148,7 +148,7 @@ function initModal() {
         },
         'business': {
             title: '사업자등록증',
-            image: 'images/cert-business.jpg',
+            image: 'images/cert-business.png',
             alt: '사업자등록증 - 농업회사법인 이맛식품 주식회사'
         }
     };
