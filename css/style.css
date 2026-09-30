@@ -979,10 +979,7 @@ ul, ol {
    Facility Hero Image
    ============================================ */
 .facility-hero {
-    position: relative;
-    border-radius: 24px;
-    overflow: hidden;
-    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.12);
+    display: none !important;
 }
 
 .facility-hero-img {
