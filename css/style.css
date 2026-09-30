@@ -421,6 +421,11 @@ ul, ol {
     margin-bottom: 40px;
 }
 
+.facility-info-grid {
+    max-width: 1080px;
+    margin: 0 auto 0;
+}
+
 .card {
     background: var(--color-white);
     border-radius: 16px;
